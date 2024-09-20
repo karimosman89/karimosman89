@@ -15,7 +15,7 @@ I'm a Machine Learning Engineer and Data Scientist passionate about solving real
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=karimosman89&show_icons=true&theme=radical)
 
 ## 🏆 Recent Projects
-- [NLP with Transformers](https://github.com/karimosman89/NLP-Transformers): Implemented state-of-the-art text classification models using BERT.
+- [NLP with Transformers](https://github.com/karimosman89/NLP-with-Transformers): Implemented state-of-the-art text classification models using BERT.
 - [Time Series Forecasting](https://github.com/karimosman89/Time-Series-Forecasting): Built models for predicting stock prices using LSTM and ARIMA.
 
 ## 📫 How to reach me
