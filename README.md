@@ -7,10 +7,11 @@ I'm a Machine Learning Engineer and Data Scientist passionate about solving real
   
 ## 🚀 Skills
 - **Languages:** Python, R, SQL,Java,C#,Groovy,VB,JavaScript
+-  ![Python](https://img.shields.io/badge/Python-Expert-blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-yellow) ![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-orange) 
 - **Machine Learning:** scikit-learn, TensorFlow, PyTorch
 - **Data Visualization:** Matplotlib, Seaborn, Plotly
 - **Big Data:** Hadoop, Spark
-       ![Python](https://img.shields.io/badge/Python-Expert-blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-yellow) ![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-orange)  
+      
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=karimosman89&show_icons=true&theme=radical)
 
