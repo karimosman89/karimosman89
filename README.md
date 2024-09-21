@@ -1,6 +1,7 @@
-# Welcome to My Profile! I'm Karim Osman 👋
+# Welcome to My Profile! 
+# I'm Karim Osman 👋
 
-As a **Machine Learning Engineer**, **Data Scientist**, and **DevOps Specialist**, I am dedicated to harnessing the power of **AI** and **data-driven solutions** to solve complex, real-world challenges. My expertise spans the entire machine learning lifecycle—from model development to deployment—while ensuring robust data engineering and cloud infrastructure support.
+As a **Machine Learning Engineer**,**Data Engineer**,**Data Scientist**, and **DevOps Specialist**, I am dedicated to harnessing the power of **AI** and **data-driven solutions** to solve complex, real-world challenges. My expertise spans the entire machine learning lifecycle—from model development to deployment—while ensuring robust data engineering and cloud infrastructure support.
 
 ## 🔍 About Me
 - **Current Focus:** Developing state-of-the-art **deep learning models** for Natural Language Processing (NLP) and computer vision applications.
@@ -10,19 +11,19 @@ As a **Machine Learning Engineer**, **Data Scientist**, and **DevOps Specialist*
 ## 🚀 Core Skills and Technologies
 
 ### Programming Languages:
-- **Python**, **R**, **SQL**, **Java**, **C#**, **Groovy**, **VB**, **JavaScript**
+- **Python**, **R**, **SQL**, **Java**, **C#**, **Groovy**, **VB**, **JavaScript**,**PHP**
 
 ### Machine Learning & Data Science:
 - **Frameworks & Libraries:**
   - Machine Learning: **scikit-learn**, **TensorFlow**, **PyTorch**
   - Data Science: **Pandas**, **NumPy**, **SciPy**, **Statsmodels**
-  - Deep Learning: **Transformers** (BERT, GPT), CNNs, RNNs, LSTMs
+  - Deep Learning: **Transformers** (BERT, GPT), CNNs, RNNs, LSTMs,U-NET, RESTNET50
   - Data Visualization: **Matplotlib**, **Seaborn**, **Plotly**
 
 ### Big Data & Cloud Technologies:
 - **Big Data Tools:** **Hadoop**, **Spark**, **Hive**
 - **Cloud Platforms:** **AWS** (SageMaker, EC2), **GCP** (AI Platform), **Azure**
-- **MLOps & Deployment:** **Docker**, **Kubernetes**, **CI/CD**, **MLflow**
+- **MLOps & Deployment:** **Docker**, **Kubernetes**, **CI/CD**, **MLflow** ,**AirFlow**
 - **Databases:** **PostgreSQL**, **MySQL**, **MongoDB**, **Redis**
 
 ### Proficiency Badges:
