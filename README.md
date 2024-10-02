@@ -17,24 +17,33 @@ I'm **Karim Osman**, a passionate **Machine Learning Engineer**, **Data Engineer
 ![Python](https://img.shields.io/badge/Python-Expert-blue) 
 ![R](https://img.shields.io/badge/R-Intermediate-orange) 
 ![Java](https://img.shields.io/badge/Java-Intermediate-yellow) 
+![C#](https://img.shields.io/badge/C%23-Intermediate-orange) 
+![Groovy](https://img.shields.io/badge/Groovy-Intermediate-yellow) 
 ![SQL](https://img.shields.io/badge/SQL-Expert-blue) 
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-green) 
+![PHP](https://img.shields.io/badge/PHP-Intermediate-purple) 
 
 ### Machine Learning & Data Science:
 - **Frameworks & Libraries:**
-  - **Machine Learning:** `scikit-learn`, `TensorFlow`, `PyTorch`
+  - **Machine Learning:** `scikit-learn`, `XGBoost`, `LightGBM`, `CatBoost`
+  - **Deep Learning:** `TensorFlow`, `Keras`, `PyTorch`, `MXNet`, `Caffe`
   - **Data Science:** `Pandas`, `NumPy`, `SciPy`, `Statsmodels`
-  - **Deep Learning:** `Transformers` (BERT, GPT), CNNs, RNNs, LSTMs, U-NET, RESTNET50
-  - **Data Visualization:** `Matplotlib`, `Seaborn`, `Plotly`
+  - **Deep Learning Models:** 
+    - **NLP:** BERT, GPT-3, LSTM, RNN, CNN
+    - **Computer Vision:** U-Net, ResNet, VGG16, EfficientNet, YOLO
+    - **Generative Models:** GANs (Generative Adversarial Networks), VAEs (Variational Autoencoders)
+  - **Data Visualization:** `Matplotlib`, `Seaborn`, `Plotly`, `Bokeh`
 
 ### Big Data & Cloud Technologies:
-- **Big Data Tools:** `Hadoop`, `Spark`, `Hive`
-- **Cloud Platforms:** `AWS` (SageMaker, EC2), `GCP` (AI Platform), `Azure`
-- **MLOps & Deployment:** `Docker`, `Kubernetes`, `CI/CD`, `MLflow`, `AirFlow`
-- **Databases:** `PostgreSQL`, `MySQL`, `MongoDB`, `Redis`
+- **Big Data Tools:** `Hadoop`, `Spark`, `Hive`, `Flink`
+- **Cloud Platforms:** `AWS` (SageMaker, EC2, Lambda), `GCP` (AI Platform, BigQuery), `Azure`
+- **MLOps & Deployment:** `Docker`, `Kubernetes`, `CI/CD`, `MLflow`, `Airflow`, `Kubeflow`
+- **Databases:** `PostgreSQL`, `MySQL`, `MongoDB`, `Redis`, `Cassandra`
 
 ### Proficiency Badges:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-yellow) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-orange) 
+![Keras](https://img.shields.io/badge/Keras-Intermediate-red) 
 
 ---
 
