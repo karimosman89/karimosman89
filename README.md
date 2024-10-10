@@ -66,8 +66,11 @@ As a **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast**, I 
 <summary>📈 My GitHub Stats</summary>
 <br>
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karimosman89&theme=dracula) 
+  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karimosman89&theme=dracula) 
+  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karimosman89&theme=dracula)
+<br>
 </details>
 
 ### 🌍 Let's Connect
