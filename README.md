@@ -5,13 +5,18 @@
   </a>
   <br/>
   <a href="https://github.com/karimosman89">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Machine+Learning+Engineer+|+Data+Engineer+|+Data+Scientist;AI+Engineer+|+Data+Engineering+|+DevOps&colors=#FF5733,28B463,3498DB,F1C40F" alt="Typing SVG - Positions" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Machine+Learning+Engineer;Data+Engineer;Data+Scientist" alt="Machine Learning Engineer; Data Engineer; Data Scientist" style="color: red;" />
+  </a>
+  <br/>
+  <a href="https://github.com/karimosman89">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=AI+Engineer;Data+Engineering;DevOps" alt="AI Engineer; Data Engineering; DevOps" style="color: green;" />
   </a>
   <br/>
   <a href="https://github.com/karimosman89">
     <img src="https://github-stats-alpha.vercel.app/api?username=karimosman89&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats">
   </a>
 </p>
+
 
 
 
