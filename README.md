@@ -1,16 +1,17 @@
 <p align="center">
   <a href="https://github.com/karimosman89">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=2000&pause=100&lines=Karim+Osman" alt="Typing SVG - Karim Osman" style="color: #7BCF6B;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=2000&pause=100&lines=Karim+Osman" alt="Typing SVG - Karim Osman" />
   </a>
   <br/>
   <a href="https://github.com/karimosman89">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Machine+Learning+Engineer+|+Data+Engineer+|+Data+Scientist;AI+Engineer+|+Data+Engineering+|+DevOps" alt="Typing SVG - Positions" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Machine+Learning+Engineer+|+Data+Engineer+|+Data+Scientist;AI+Engineer+|+Data+Engineering+|+DevOps&color=37BCF6" alt="Typing SVG - Positions" />
   </a>
   <br/>
   <a href="https://github.com/karimosman89">
     <img src="https://github-stats-alpha.vercel.app/api?username=karimosman89&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats">
   </a>
 </p>
+
 
 
 ---
