@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/karimosman89">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=2000&pause=100&multiline=true&width=500&height=80&lines=<span style='color:%237BCF6B'>Karim+Osman</span>;Machine+Learning+Engineer+|+Data+Engineer+|+Data+Scientist;AI+Engineer+|+Data+Engineering+|+DevOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Karim+Osman;Machine+Learning+Engineer+|+Data+Engineer+|+Data+Scientist;AI+Engineer+|+Data+Engineering+|+DevOps" alt="Typing SVG" />
   </a>
   <br/>
   <a href="https://github.com/karimosman89">
