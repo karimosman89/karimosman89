@@ -4,9 +4,7 @@
 </a>
 <br/>
 
-<a href="https://karimosman89.github.io">
-    <img src="https://img.shields.io/badge/Website-karimosman89.github.io-red?style=flat-square">
-</a>  
+ 
 
 <a href="https://www.linkedin.com/in/karimosman89/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
