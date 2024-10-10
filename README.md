@@ -62,7 +62,9 @@
 ### 📈 GitHub Statistics
 
 ![Karim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karimosman89&show_icons=true&theme=radical)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karimosman89&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karimosman89&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karimosman89&theme=dracula)
 ---
 
 ### 🌍 Let's Connect
