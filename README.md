@@ -27,27 +27,36 @@ As a **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast**, I 
 ### 🛠️ Core Skills and Technologies
 
 #### **Programming Languages**
-- ![Python](https://img.shields.io/badge/Python-Expert-blue) ![R](https://img.shields.io/badge/R-Intermediate-orange) ![Java](https://img.shields.io/badge/Java-Intermediate-yellow) ![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-orange) ![C#](https://img.shields.io/badge/C%23-Intermediate-orange) ![Groovy](https://img.shields.io/badge/Groovy-Intermediate-yellow) ![SQL](https://img.shields.io/badge/SQL-Expert-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-green) ![PHP](https://img.shields.io/badge/PHP-Intermediate-purple) ![Bash](https://img.shields.io/badge/Bash-Intermediate-green) ![Go](https://img.shields.io/badge/Go-Intermediate-blue) 
+![Python](https://img.shields.io/badge/Python-Expert-blue) 
+![R](https://img.shields.io/badge/R-Intermediate-orange) 
+![Java](https://img.shields.io/badge/Java-Intermediate-yellow) 
+![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-orange) 
+![C#](https://img.shields.io/badge/C%23-Intermediate-orange) 
+![Groovy](https://img.shields.io/badge/Groovy-Intermediate-yellow) 
+![SQL](https://img.shields.io/badge/SQL-Expert-blue) 
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-green) 
+![PHP](https://img.shields.io/badge/PHP-Intermediate-purple) 
+![Bash](https://img.shields.io/badge/Bash-Intermediate-green) 
+![Go](https://img.shields.io/badge/Go-Intermediate-blue) 
 
 #### **Machine Learning & Data Science Frameworks**
-- **Machine Learning**: ![scikit-learn](https://img.shields.io/badge/scikit--learn-#F7931E?logo=scikit-learn&logoColor=white) Scikit-learn, ![XGBoost](https://img.shields.io/badge/XGBoost-#3F8CFF?logo=xgboost&logoColor=white) XGBoost, ![LightGBM](https://img.shields.io/badge/LightGBM-#F7931E?logo=lightgbm&logoColor=white) LightGBM, ![CatBoost](https://img.shields.io/badge/CatBoost-#3F8CFF?logo=catboost&logoColor=white) CatBoost
-- **Deep Learning**: ![TensorFlow](https://img.shields.io/badge/TensorFlow-#FF6F20?logo=tensorflow&logoColor=white) TensorFlow, ![Keras](https://img.shields.io/badge/Keras-#D00000?logo=keras&logoColor=white) Keras, ![PyTorch](https://img.shields.io/badge/PyTorch-#FF6F20?logo=pytorch&logoColor=white) PyTorch, ![MXNet](https://img.shields.io/badge/MXNet-#F7931E?logo=apachemxnet&logoColor=white) MXNet, ![Caffe](https://img.shields.io/badge/Caffe-#3F8CFF?logo=caffe&logoColor=white) Caffe
-- **Data Science**: ![Pandas](https://img.shields.io/badge/Pandas-#150458?logo=pandas&logoColor=white) Pandas, ![NumPy](https://img.shields.io/badge/NumPy-#013243?logo=numpy&logoColor=white) NumPy, ![SciPy](https://img.shields.io/badge/SciPy-#8CAAE0?logo=sci-py&logoColor=white) SciPy, ![Statsmodels](https://img.shields.io/badge/Statsmodels-#150458?logo=statsmodels&logoColor=white) Statsmodels
-- **Data Visualization**: ![Tableau](https://img.shields.io/badge/Tableau-#E97600?logo=tableau&logoColor=white) Tableau, ![Matplotlib](https://img.shields.io/badge/Matplotlib-#3D81A0?logo=matplotlib&logoColor=white) Matplotlib, ![Seaborn](https://img.shields.io/badge/Seaborn-#EF4A2A?logo=seaborn&logoColor=white) Seaborn, ![Plotly](https://img.shields.io/badge/Plotly-#3C99A8?logo=plotly&logoColor=white) Plotly, ![Bokeh](https://img.shields.io/badge/Bokeh-#D00000?logo=bokeh&logoColor=white) Bokeh
+- **Machine Learning**: Scikit-learn, XGBoost, LightGBM, CatBoost
+- **Deep Learning**: TensorFlow, Keras, PyTorch, MXNet, Caffe
+- **Data Science**: Pandas, NumPy, SciPy, Statsmodels
+- **Data Visualization**: Tableau, Matplotlib, Seaborn, Plotly, Bokeh
 
 #### **Deep Learning Models**
-- **NLP**: ![BERT](https://img.shields.io/badge/BERT-#0078D4?logo=bert&logoColor=white) BERT, ![GPT-3](https://img.shields.io/badge/GPT-3-#00A4FF?logo=openaigpt&logoColor=white) GPT-3, ![LSTM](https://img.shields.io/badge/LSTM-#FF6F20?logo=longshortterm&logoColor=white) LSTM, ![RNN](https://img.shields.io/badge/RNN-#D00000?logo=recurrentneuralnetwork&logoColor=white) RNN, ![CNN](https://img.shields.io/badge/CNN-#FF6F20?logo=convolutionalneuralnetwork&logoColor=white) CNN
-- **Computer Vision**: ![U-Net](https://img.shields.io/badge/U-Net-#FF6F20?logo=unet&logoColor=white) U-Net, ![ResNet](https://img.shields.io/badge/ResNet-#FF6F20?logo=resnet&logoColor=white) ResNet, ![VGG16](https://img.shields.io/badge/VGG16-#3F8CFF?logo=vgg&logoColor=white) VGG16, ![EfficientNet](https://img.shields.io/badge/EfficientNet-#FF6F20?logo=efficientnet&logoColor=white) EfficientNet, ![YOLO](https://img.shields.io/badge/YOLO-#FF6F20?logo=yolo&logoColor=white) YOLO
-- **Generative Models**: ![GANs](https://img.shields.io/badge/GANs-#D00000?logo=generativeadversarialnetwork&logoColor=white) GANs, ![VAEs](https://img.shields.io/badge/VAEs-#F7931E?logo=variationalautoencoder&logoColor=white) VAEs
+- **NLP**: BERT, GPT-3, LSTM, RNN, CNN
+- **Computer Vision**: U-Net, ResNet, VGG16, EfficientNet, YOLO
+- **Generative Models**: GANs, VAEs
 
 #### **Big Data & Cloud Technologies**
-- **Big Data Tools**: ![Hadoop](https://img.shields.io/badge/Hadoop-#66CCFF?logo=apachehadoop&logoColor=white) Hadoop, ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-#E25A1C?logo=apachespark&logoColor=white) Apache Spark, ![Dask](https://img.shields.io/badge/Dask-#343F57?logo=dask&logoColor=white) Dask, ![Hive](https://img.shields.io/badge/Hive-#FFC107?logo=apachehive&logoColor=white) Hive, ![Flink](https://img.shields.io/badge/Flink-#006A4E?logo=apacheflink&logoColor=white) Flink, ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-#000000?logo=apachekafka&logoColor=white) Apache Kafka
-- **Cloud Platforms**: ![AWS](https://img.shields.io/badge/AWS-#FF9900?logo=amazonaws&logoColor=white) AWS (SageMaker), ![Google Cloud](https://img.shields.io/badge/GCP-#4285F4?logo=googlecloud&logoColor=white) Google Cloud AI Platform, ![Azure](https://img.shields.io/badge/Azure-#0089D6?logo=microsoftazure&logoColor=white) Microsoft Azure ML
-- **MLOps & Deployment**: ![Docker](https://img.shields.io/badge/Docker-#2496ED?logo=docker&logoColor=white) Docker, ![Kubernetes](https://img.shields.io/badge/Kubernetes-#326CE5?logo=kubernetes&logoColor=white) Kubernetes, ![CI/CD](https://img.shields.io/badge/CI/CD-#5B3F76?logo=circleci&logoColor=white) CI/CD (Jenkins, GitLab CI/CD, CircleCI, Travis CI), ![MLflow](https://img.shields.io/badge/MLflow-#4B4D4F?logo=mlflow&logoColor=white) MLflow, ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-#17BEBB?logo=apacheairflow&logoColor=white) Apache Airflow, ![Kubeflow](https://img.shields.io/badge/Kubeflow-#1B5E20?logo=kubeflow&logoColor=white) Kubeflow
-- **Databases**: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-#336791?logo=postgresql&logoColor=white) PostgreSQL, ![MySQL](https://img.shields.io/badge/MySQL-#00758F?logo=mysql&logoColor=white) MySQL, ![MongoDB](https://img.shields.io/badge/MongoDB-#4DB33D?logo=mongodb&logoColor=white) MongoDB, ![Redis](https://img.shields.io/badge/Redis-#D50000?logo=redis&logoColor=white) Redis, ![Cassandra](https://img.shields.io/badge/Cassandra-#1287B1?logo=apachecassandra&logoColor=white) Cassandra
-- **Data Warehousing**: ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-#E76F51?logo=amazonredshift&logoColor=white) Amazon Redshift, ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-#0BA2E0?logo=googlebigquery&logoColor=white) Google BigQuery, ![Snowflake](https://img.shields.io/badge/Snowflake-#0BA2E0?logo=snowflake&logoColor=white) Snowflake
-<br/>
-- **ETL Tools**: ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-#17BEBB?logo=apacheairflow&logoColor=white) Apache Airflow, Talend, Apache NiFi
+- **Big Data Tools**: Hadoop, Apache Spark, Dask, Hive, Flink, Apache Kafka
+- **Cloud Platforms**: AWS (SageMaker), Google Cloud AI Platform, Microsoft Azure ML
+- **MLOps & Deployment**: Docker, Kubernetes, CI/CD (Jenkins, GitLab CI/CD, CircleCI, Travis CI), MLflow, Airflow, Kubeflow
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis, Cassandra
+- **Data Warehousing**: Amazon Redshift, Google BigQuery, Snowflake
+- **ETL Tools**: Apache Airflow, Talend, Apache NiFi
 
 ---
 
