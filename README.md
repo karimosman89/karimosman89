@@ -65,7 +65,7 @@ As a **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast**, I 
 | Title | Description |
 |-------|-------------|
 | [NLP with Transformers](https://github.com/karimosman89/NLP-with-Transformers) | Developed advanced text classification models utilizing BERT for sentiment analysis and topic classification. |
-| [Time Series Forecasting](https://github.com/karimosman89/Time-Series-Forecasting) | Designed robust forecasting models employing LSTM, ARIMA, and Prophet to predict stock prices. |
+| [Time Series Forecasting](https://github.com/karimosman89/time-series) | Designed robust forecasting models employing LSTM, ARIMA, and Prophet to predict stock prices. |
 | [End-to-End ML Pipeline on AWS](https://github.com/karimosman89/ML-Pipeline-AWS) | Engineered a scalable ML pipeline for customer churn prediction utilizing AWS services and CI/CD methodologies. |
 | [Real-Time Data Pipeline](https://github.com/karimosman89/Data-Pipeline) | Architected a high-performance ETL pipeline for processing streaming log data using Apache Kafka and Spark. |
 
