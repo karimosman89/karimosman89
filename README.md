@@ -27,23 +27,23 @@ As a **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast**, I 
 ### 🛠️ Core Skills and Technologies
 
 #### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-Expert-blue) 
-![R](https://img.shields.io/badge/R-Intermediate-orange) 
-![Java](https://img.shields.io/badge/Java-Intermediate-yellow) 
-![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-orange) 
-![C#](https://img.shields.io/badge/C%23-Intermediate-orange) 
-![Groovy](https://img.shields.io/badge/Groovy-Intermediate-yellow) 
-![SQL](https://img.shields.io/badge/SQL-Expert-blue) 
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-green) 
-![PHP](https://img.shields.io/badge/PHP-Intermediate-purple) 
-![Bash](https://img.shields.io/badge/Bash-Intermediate-green) 
-![Go](https://img.shields.io/badge/Go-Intermediate-blue) 
+- ![Python](https://img.shields.io/badge/Python-Expert-blue) Python
+- ![R](https://img.shields.io/badge/R-Intermediate-orange) R
+- ![Java](https://img.shields.io/badge/Java-Intermediate-yellow) Java
+- ![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-orange) C++
+- ![C#](https://img.shields.io/badge/C%23-Intermediate-orange) C#
+- ![Groovy](https://img.shields.io/badge/Groovy-Intermediate-yellow) Groovy
+- ![SQL](https://img.shields.io/badge/SQL-Expert-blue) SQL
+- ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-green) JavaScript
+- ![PHP](https://img.shields.io/badge/PHP-Intermediate-purple) PHP
+- ![Bash](https://img.shields.io/badge/Bash-Intermediate-green) Bash
+- ![Go](https://img.shields.io/badge/Go-Intermediate-blue) Go
 
 #### **Machine Learning & Data Science Frameworks**
-- **Machine Learning**: Scikit-learn, XGBoost, LightGBM, CatBoost
-- **Deep Learning**: TensorFlow, Keras, PyTorch, MXNet, Caffe
-- **Data Science**: Pandas, NumPy, SciPy, Statsmodels
-- **Data Visualization**: Tableau, Matplotlib, Seaborn, Plotly, Bokeh
+- **Machine Learning**: ![scikit-learn](https://img.shields.io/badge/scikit--learn-#F7931E?logo=scikit-learn&logoColor=white) Scikit-learn, ![XGBoost](https://img.shields.io/badge/XGBoost-#3F8CFF?logo=xgboost&logoColor=white) XGBoost, ![LightGBM](https://img.shields.io/badge/LightGBM-#F7931E?logo=lightgbm&logoColor=white) LightGBM, ![CatBoost](https://img.shields.io/badge/CatBoost-#3F8CFF?logo=catboost&logoColor=white) CatBoost
+- **Deep Learning**: ![TensorFlow](https://img.shields.io/badge/TensorFlow-#FF6F20?logo=tensorflow&logoColor=white) TensorFlow, ![Keras](https://img.shields.io/badge/Keras-#D00000?logo=keras&logoColor=white) Keras, ![PyTorch](https://img.shields.io/badge/PyTorch-#FF6F20?logo=pytorch&logoColor=white) PyTorch, ![MXNet](https://img.shields.io/badge/MXNet-#F7931E?logo=apachemxnet&logoColor=white) MXNet, ![Caffe](https://img.shields.io/badge/Caffe-#3F8CFF?logo=caffe&logoColor=white) Caffe
+- **Data Science**: ![Pandas](https://img.shields.io/badge/Pandas-#150458?logo=pandas&logoColor=white) Pandas, ![NumPy](https://img.shields.io/badge/NumPy-#013243?logo=numpy&logoColor=white) NumPy, ![SciPy](https://img.shields.io/badge/SciPy-#8CAAE0?logo=sci-py&logoColor=white) SciPy, ![Statsmodels](https://img.shields.io/badge/Statsmodels-#150458?logo=statsmodels&logoColor=white) Statsmodels
+- **Data Visualization**: ![Tableau](https://img.shields.io/badge/Tableau-#E97600?logo=tableau&logoColor=white) Tableau, ![Matplotlib](https://img.shields.io/badge/Matplotlib-#3D81A0?logo=matplotlib&logoColor=white) Matplotlib, ![Seaborn](https://img.shields.io/badge/Seaborn-#EF4A2A?logo=seaborn&logoColor=white) Seaborn, ![Plotly](https://img.shields.io/badge/Plotly-#3C99A8?logo=plotly&logoColor=white) Plotly, ![Bokeh](https://img.shields.io/badge/Bokeh-#D00000?logo=bokeh&logoColor=white) Bokeh
 
 #### **Deep Learning Models**
 - **NLP**: BERT, GPT-3, LSTM, RNN, CNN
@@ -51,12 +51,12 @@ As a **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast**, I 
 - **Generative Models**: GANs, VAEs
 
 #### **Big Data & Cloud Technologies**
-- **Big Data Tools**: Hadoop, Apache Spark, Dask, Hive, Flink, Apache Kafka
-- **Cloud Platforms**: AWS (SageMaker), Google Cloud AI Platform, Microsoft Azure ML
-- **MLOps & Deployment**: Docker, Kubernetes, Jenkins, GitLab CI/CD, Circle, Travis, MLflow, Airflow, Kubeflow
-- **Databases**: PostgreSQL, MySQL, MongoDB, Redis, Cassandra
-- **Data Warehousing**: Amazon Redshift, Google BigQuery, Snowflake
-- **ETL Tools**: Apache Airflow, Talend, Apache NiFi
+- **Big Data Tools**: ![Hadoop](https://img.shields.io/badge/Hadoop-#66CCFF?logo=apachehadoop&logoColor=white) Hadoop, ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-#E25A1C?logo=apachespark&logoColor=white) Apache Spark, ![Dask](https://img.shields.io/badge/Dask-#343F57?logo=dask&logoColor=white) Dask, Hive, Flink, Apache Kafka
+- **Cloud Platforms**: ![AWS](https://img.shields.io/badge/AWS%20SageMaker-#232F3E?logo=amazonaws&logoColor=white) AWS (SageMaker), ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-#4285F4?logo=googlecloud&logoColor=white) Google Cloud AI Platform, ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-#0078D4?logo=microsoftazure&logoColor=white) Microsoft Azure ML
+- **MLOps & Deployment**: ![Docker](https://img.shields.io/badge/Docker-#2496ED?logo=docker&logoColor=white) Docker, ![Kubernetes](https://img.shields.io/badge/Kubernetes-#326CE5?logo=kubernetes&logoColor=white) Kubernetes, CI/CD (Jenkins, GitLab CI/CD, CircleCI, Travis CI), MLflow, Airflow, Kubeflow
+- **Databases**: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-#336791?logo=postgresql&logoColor=white) PostgreSQL, ![MySQL](https://img.shields.io/badge/MySQL-#00758F?logo=mysql&logoColor=white) MySQL, ![MongoDB](https://img.shields.io/badge/MongoDB-#47A248?logo=mongodb&logoColor=white) MongoDB, Redis, Cassandra
+- **Data Warehousing**: ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-#D52B1E?logo=amazonredshift&logoColor=white) Amazon Redshift, ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-#F1C40F?logo=googlebigquery&logoColor=white) Google BigQuery, ![Snowflake](https://img.shields.io/badge/Snowflake-#00B2E2?logo=snowflake&logoColor=white) Snowflake
+- **ETL Tools**: ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-#17BEBB?logo=apacheairflow&logoColor=white) Apache Airflow, Talend, Apache NiFi
 
 ---
 
