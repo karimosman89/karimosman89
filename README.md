@@ -12,6 +12,10 @@
   </a>
 </p>
 
+<!-- Background Image -->
+![AI Skills Background](Photo by <a href="https://unsplash.com/@dissii?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mahdis Mousavi</a> on <a href="https://unsplash.com/photos/woman-wearing-grey-shirt-hJ5uMIRNg5k?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  ) <!-- Replace this URL with the link to your background image -->
+
 ---
 
 ### 👋 Welcome to My GitHub Profile!
