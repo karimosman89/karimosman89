@@ -53,7 +53,7 @@ As a **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast**, I 
 #### **Big Data & Cloud Technologies**
 - **Big Data Tools**: Hadoop, Apache Spark, Dask, Hive, Flink, Apache Kafka
 - **Cloud Platforms**: AWS (SageMaker), Google Cloud AI Platform, Microsoft Azure ML
-- **MLOps & Deployment**: Docker, Kubernetes, CI/CD (Jenkins, GitLab CI/CD, CircleCI, Travis CI), MLflow, Airflow, Kubeflow
+- **MLOps & Deployment**: Docker, Kubernetes, Jenkins, GitLab CI/CD, Circle, Travis, MLflow, Airflow, Kubeflow
 - **Databases**: PostgreSQL, MySQL, MongoDB, Redis, Cassandra
 - **Data Warehousing**: Amazon Redshift, Google BigQuery, Snowflake
 - **ETL Tools**: Apache Airflow, Talend, Apache NiFi
