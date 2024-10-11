@@ -12,16 +12,11 @@
   </a>
 </p>
 
-
-
-
-
-
 ---
 
 ### 👋 Welcome to My GitHub Profile!
 
-As a **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast**, I specialize in creating innovative solutions that harness the power of data and AI technologies. 
+As a **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast**, I specialize in creating innovative solutions that harness the power of data and AI technologies.
 
 * 🔍 **Currently focused on**: Developing state-of-the-art **deep learning models** for **Natural Language Processing** and **Computer Vision** applications.
 * 📖 **Engaging with**: Advanced topics such as **Reinforcement Learning** and the latest advancements in **AI technologies**.
@@ -35,17 +30,20 @@ As a **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast**, I 
 ![Python](https://img.shields.io/badge/Python-Expert-blue) 
 ![R](https://img.shields.io/badge/R-Intermediate-orange) 
 ![Java](https://img.shields.io/badge/Java-Intermediate-yellow) 
+![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-orange) 
 ![C#](https://img.shields.io/badge/C%23-Intermediate-orange) 
 ![Groovy](https://img.shields.io/badge/Groovy-Intermediate-yellow) 
 ![SQL](https://img.shields.io/badge/SQL-Expert-blue) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-green) 
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-purple) 
+![Bash](https://img.shields.io/badge/Bash-Intermediate-green) 
+![Go](https://img.shields.io/badge/Go-Intermediate-blue) 
 
 #### **Machine Learning & Data Science Frameworks**
-- **Machine Learning**: scikit-learn, XGBoost, LightGBM, CatBoost
+- **Machine Learning**: Scikit-learn, XGBoost, LightGBM, CatBoost
 - **Deep Learning**: TensorFlow, Keras, PyTorch, MXNet, Caffe
 - **Data Science**: Pandas, NumPy, SciPy, Statsmodels
-- **Visualization**: Matplotlib, Seaborn, Plotly, Bokeh
+- **Data Visualization**: Tableau, Matplotlib, Seaborn, Plotly, Bokeh
 
 #### **Deep Learning Models**
 - **NLP**: BERT, GPT-3, LSTM, RNN, CNN
@@ -53,10 +51,12 @@ As a **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast**, I 
 - **Generative Models**: GANs, VAEs
 
 #### **Big Data & Cloud Technologies**
-- **Big Data Tools**: Hadoop, Spark, Hive, Flink
-- **Cloud Platforms**: AWS, GCP, Azure
-- **MLOps & Deployment**: Docker, Kubernetes, CI/CD, MLflow, Airflow, Kubeflow
+- **Big Data Tools**: Hadoop, Apache Spark, Dask, Hive, Flink, Apache Kafka
+- **Cloud Platforms**: AWS (SageMaker), Google Cloud AI Platform, Microsoft Azure ML
+- **MLOps & Deployment**: Docker, Kubernetes, CI/CD (Jenkins, GitLab CI/CD, CircleCI, Travis CI), MLflow, Airflow, Kubeflow
 - **Databases**: PostgreSQL, MySQL, MongoDB, Redis, Cassandra
+- **Data Warehousing**: Amazon Redshift, Google BigQuery, Snowflake
+- **ETL Tools**: Apache Airflow, Talend, Apache NiFi
 
 ---
 
