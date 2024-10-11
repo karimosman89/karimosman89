@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/karimosman89">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=2000&pause=100&lines=Karim+Osman" alt="Typing SVG - Karim Osman" style="color: black;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=2000&pause=100&lines=Karim+Osman" alt="Typing SVG - Karim Osman" style="color: white;" />
   </a>
   <br/>
   <a href="https://github.com/karimosman89">
