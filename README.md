@@ -8,7 +8,7 @@
   </a>
   <br/>
   <a href="https://karimosman.streamlit.app">
-    <img src="https://img.shields.io/badge/Website-gkos.dev-red?style=flat-square">
+    <img src="https://img.shields.io/badge/Website-karimosman.streamlit.app-red?style=flat-square">
 </a>  
 <a href="https://karimosman.streamlit.app/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
