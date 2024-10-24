@@ -7,6 +7,25 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&colors=2ECC71,3498DB,E74C3C,9B59B6,F1C40F,28B463&lines=Machine+Learning+Engineer+|+Data+Engineer+|+Data+Scientist;AI+Engineer+|+Data+Engineering+|+DevOps" alt="Typing SVG - Positions" />
   </a>
   <br/>
+  <a href="https://karimosman.streamlit.app">
+    <img src="https://img.shields.io/badge/Website-gkos.dev-red?style=flat-square">
+</a>  
+<a href="https://karimosman.streamlit.app/Resume.pdf">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a>  
+<a href="https://www.linkedin.com/in/karimosman89/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:karim.programmer2020@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<a href='https://scholar.google.com/citations?user=pwlwbecAAAAJ&hl=en&authuser=1&oi=sra' target="_blank">
+    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
+</a>
+<a href="https://pypi.org/user/karimosman89/">
+    <img src="https://img.shields.io/badge/PyPi-drkostas-blue?style=flat-square&logo=pypi&logoColor=white">
+</a>
+  <br/>
   <a href="https://github.com/karimosman89">
     <img src="https://github-stats-alpha.vercel.app/api?username=karimosman89&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats">
   </a>
