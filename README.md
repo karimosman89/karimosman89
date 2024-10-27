@@ -10,7 +10,7 @@
   <a href="https://karimosman.streamlit.app">
     <img src="https://img.shields.io/badge/Website-karimosman.streamlit.app-red?style=flat-square">
 </a>  
-<a href="https://karimosman.streamlit.app/resum/Karim_Osman_Resume.pdf">
+<a href="https://drive.google.com/file/d/18SLECTaOP9vgHKqGrgRdVotPRWu_V7nZ/preview">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/karimosman89/">
