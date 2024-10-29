@@ -50,7 +50,7 @@ As a **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast**, I 
 ### 🛠️ Core Skills and Technologies
 
 #### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-Expert-blue) 
+![Python](https://img.shields.io/badge/Python-Expert-blue) (https://skillicons.dev/icons?i=python&perline=13)
 ![R](https://img.shields.io/badge/R-Intermediate-orange) 
 ![Java](https://img.shields.io/badge/Java-Intermediate-yellow) 
 ![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-orange) 
