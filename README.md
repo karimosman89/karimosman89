@@ -54,7 +54,7 @@ As a **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast**, I 
 ![R](https://skillicons.dev/icons?i=r&perline=13) 
 ![Java](https://skillicons.dev/icons?i=java&perline=13) 
 ![C++](https://skillicons.dev/icons?i=c&perline=13)
-![C#](https://skillicons.dev/icons?i=c-sharp&perline=13) 
+![C#](https://skillicons.dev/icons?i=csharp&perline=13) 
 ![Groovy](https://img.shields.io/badge/Groovy-Intermediate-yellow) 
 ![SQL](https://img.shields.io/badge/SQL-Expert-blue) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-green) 
