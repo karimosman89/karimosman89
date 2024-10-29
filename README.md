@@ -55,7 +55,7 @@ As a **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast**, I 
 ![Java](https://skillicons.dev/icons?i=java&perline=13) 
 ![C++](https://skillicons.dev/icons?i=cpp&perline=13)
 ![C#](https://skillicons.dev/icons?i=cs&perline=13) 
-![Groovy](https://skillicons.dev/icons?i=groovy&perline=13)
+![Groovy](https://skillicons.dev/icons?i=gradle&perline=13)
 ![SQL](https://skillicons.dev/icons?i=mysql&perline=13) 
 ![JavaScript](https://skillicons.dev/icons?i=js&perline=13) 
 ![PHP](https://skillicons.dev/icons?i=php&perline=13) 
