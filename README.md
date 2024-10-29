@@ -51,7 +51,7 @@ As a **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast**, I 
 
 #### **Programming Languages**
 ![Python](https://skillicons.dev/icons?i=python&perline=13)
-![R](https://img.shields.io/badge/R-Intermediate-orange) 
+![R](https://skillicons.dev/icons?i=r&perline=13) 
 ![Java](https://img.shields.io/badge/Java-Intermediate-yellow) 
 ![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-orange) 
 ![C#](https://img.shields.io/badge/C%23-Intermediate-orange) 
