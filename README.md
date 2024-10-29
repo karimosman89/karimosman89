@@ -76,10 +76,10 @@ As a **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast**, I 
 #### **Big Data & Cloud Technologies**
 - **Big Data Tools**: Hadoop, Apache Spark, Dask, Hive, Flink, ![Apache Kafka](https://skillicons.dev/icons?i=kafka&perline=13)
 - **Cloud Platforms**: ![AWS (SageMaker)](https://skillicons.dev/icons?i=aws&perline=13),![Google Cloud AI Platform](https://skillicons.dev/icons?i=gcp&perline=13), ![Microsoft Azure ML](https://skillicons.dev/icons?i=azure&perline=13)
-- **MLOps & Deployment**: ![Docker], ![Kubernetes], ![Jenkins], ![GitLab], ![CircleCI], ![Travis CI], ![MLflow], ![Airflow], ![Kubeflow]
-- **Databases**: ![PostgreSQL], ![MySQL], ![MongoDB], ![Redis], ![Cassandra]
-- **Data Warehousing**: ![Amazon Redshift], ![Google BigQuery], ![Snowflake]
-- **ETL Tools**: ![Apache Airflow], ![Talend], ![Apache NiFi]
+- **MLOps & Deployment**: ![Docker](https://skillicons.dev/icons?i=docker&perline=13), ![Kubernetes](https://skillicons.dev/icons?i=kubernetes&perline=13), ![Jenkins](https://skillicons.dev/icons?i=jenkins&perline=13), ![GitLab](https://skillicons.dev/icons?i=gitlab&perline=13), CircleCI, Travis CI, MLflow, Airflow, Kubeflow
+- **Databases**: ![PostgreSQL](https://skillicons.dev/icons?i=postgres&perline=13), ![MySQL](https://skillicons.dev/icons?i=mysql&perline=13), ![MongoDB](https://skillicons.dev/icons?i=mongodb&perline=13), ![Redis](https://skillicons.dev/icons?i=redis&perline=13), ![Cassandra](https://skillicons.dev/icons?i=cassandra&perline=13)
+- **Data Warehousing**: Amazon Redshift, Google BigQuery, Snowflake
+- **ETL Tools**: Apache Airflow, Talend, Apache NiFi
 
 ---
 
