@@ -63,7 +63,7 @@ As a **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast**, I 
 ![Go](https://skillicons.dev/icons?i=go&perline=13) 
 
 #### **Machine Learning & Data Science Frameworks**
-- **Machine Learning**: ![Scikit-learn], ![XGBoost], ![LightGBM], ![CatBoost]
+- **Machine Learning**: ![Scikit-learn](https://skillicons.dev/icons?i=sklearn&perline=13), ![XGBoost], ![LightGBM], ![CatBoost]
 - **Deep Learning**: ![TensorFlow], ![Keras], ![PyTorch], ![MXNet], ![Caffe]
 - **Data Science**: ![Pandas], ![NumPy], ![SciPy], ![Statsmodels]
 - **Data Visualization**: ![Tableau], ![Matplotlib], ![Seaborn], ![Plotly], ![Bokeh]
