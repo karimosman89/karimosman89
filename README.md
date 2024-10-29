@@ -53,14 +53,14 @@ As a **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast**, I 
 ![Python](https://skillicons.dev/icons?i=python&perline=13)
 ![R](https://skillicons.dev/icons?i=r&perline=13) 
 ![Java](https://skillicons.dev/icons?i=java&perline=13) 
-![C++](https://skillicons.dev/icons?i=c&perline=13)
-![C#](https://skillicons.dev/icons?i=csharp&perline=13) 
-![Groovy](https://img.shields.io/badge/Groovy-Intermediate-yellow) 
-![SQL](https://img.shields.io/badge/SQL-Expert-blue) 
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-green) 
-![PHP](https://img.shields.io/badge/PHP-Intermediate-purple) 
-![Bash](https://img.shields.io/badge/Bash-Intermediate-green) 
-![Go](https://img.shields.io/badge/Go-Intermediate-blue) 
+![C++](https://skillicons.dev/icons?i=cpp&perline=13)
+![C#](https://skillicons.dev/icons?i=cs&perline=13) 
+![Groovy](https://skillicons.dev/icons?i=groovy&perline=13)
+![SQL](https://skillicons.dev/icons?i=sql&perline=13) 
+![JavaScript](https://skillicons.dev/icons?i=js&perline=13) 
+![PHP](https://skillicons.dev/icons?i=php&perline=13) 
+![Bash](https://skillicons.dev/icons?i=bash&perline=13) 
+![Go](https://skillicons.dev/icons?i=go&perline=13) 
 
 #### **Machine Learning & Data Science Frameworks**
 - **Machine Learning**: Scikit-learn, XGBoost, LightGBM, CatBoost
