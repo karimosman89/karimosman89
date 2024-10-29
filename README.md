@@ -102,8 +102,9 @@ As a **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast**, I 
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karimosman89&theme=dracula) 
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karimosman89&theme=dracula)
-  
+  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=karimosman89&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+  [![Karim's current streak](https://streak-stats.demolab.com/?user=karimosman89&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 <br>
 </details>
 
