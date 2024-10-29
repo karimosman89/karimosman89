@@ -63,10 +63,10 @@ As a **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast**, I 
 ![Go](https://skillicons.dev/icons?i=go&perline=13) 
 
 #### **Machine Learning & Data Science Frameworks**
-- **Machine Learning**: ![Scikit-learn](https://skillicons.dev/icons?i=sklearn&perline=13), ![XGBoost], ![LightGBM], ![CatBoost]
-- **Deep Learning**: ![TensorFlow], ![Keras], ![PyTorch], ![MXNet], ![Caffe]
-- **Data Science**: ![Pandas], ![NumPy], ![SciPy], ![Statsmodels]
-- **Data Visualization**: ![Tableau], ![Matplotlib], ![Seaborn], ![Plotly], ![Bokeh]
+- **Machine Learning**: ![Scikit-learn](https://skillicons.dev/icons?i=sklearn&perline=13), XGBoost, LightGBM,CatBoost
+- **Deep Learning**: ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&perline=13),Keras, ![PyTorch](https://skillicons.dev/icons?i=pytorch&perline=13),MXNet, ![Caffe](https://skillicons.dev/icons?i=coffeescript&perline=13)
+- **Data Science**: Pandas, NumPy, SciPy, Statsmodels
+- **Data Visualization**: Tableau, Matplotlib, Seaborn, Plotly,Bokeh
 
 #### **Deep Learning Models**
 - **NLP**: BERT, GPT-3, LSTM, RNN, CNN
@@ -74,8 +74,8 @@ As a **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast**, I 
 - **Generative Models**: GANs, VAEs
 
 #### **Big Data & Cloud Technologies**
-- **Big Data Tools**: ![Hadoop], ![Apache Spark], ![Dask], ![Hive], ![Flink], ![Apache Kafka]
-- **Cloud Platforms**: ![AWS (SageMaker)],![Google Cloud AI Platform], ![Microsoft Azure ML]
+- **Big Data Tools**: Hadoop, Apache Spark, Dask, Hive, Flink, ![Apache Kafka](https://skillicons.dev/icons?i=kafka&perline=13)
+- **Cloud Platforms**: ![AWS (SageMaker)](https://skillicons.dev/icons?i=aws&perline=13),![Google Cloud AI Platform](https://skillicons.dev/icons?i=gcp&perline=13), ![Microsoft Azure ML](https://skillicons.dev/icons?i=azur&perline=13)
 - **MLOps & Deployment**: ![Docker], ![Kubernetes], ![Jenkins], ![GitLab], ![CircleCI], ![Travis CI], ![MLflow], ![Airflow], ![Kubeflow]
 - **Databases**: ![PostgreSQL], ![MySQL], ![MongoDB], ![Redis], ![Cassandra]
 - **Data Warehousing**: ![Amazon Redshift], ![Google BigQuery], ![Snowflake]
