@@ -7,8 +7,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&colors=2ECC71,3498DB,E74C3C,9B59B6,F1C40F,28B463&lines=Machine+Learning+Engineer+|+Data+Engineer+|+Data+Scientist;AI+Engineer+|+Data+Engineering+|+DevOps" alt="Typing SVG - Positions" />
   </a>
   <br/>
-  <a href="https://karimosman.streamlit.app">
-    <img src="https://img.shields.io/badge/Website-karimosman.streamlit.app-red?style=flat-square">
+  <a href="https://kosman.streamlit.app">
+    <img src="https://img.shields.io/badge/Website-kosman.streamlit.app-red?style=flat-square">
 </a>  
 <a href="https://drive.google.com/file/d/18SLECTaOP9vgHKqGrgRdVotPRWu_V7nZ/preview">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
