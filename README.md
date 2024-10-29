@@ -75,7 +75,7 @@ As a **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast**, I 
 
 #### **Big Data & Cloud Technologies**
 - **Big Data Tools**: Hadoop, Apache Spark, Dask, Hive, Flink, ![Apache Kafka](https://skillicons.dev/icons?i=kafka&perline=13)
-- **Cloud Platforms**: ![AWS (SageMaker)](https://skillicons.dev/icons?i=aws&perline=13),![Google Cloud AI Platform](https://skillicons.dev/icons?i=gcp&perline=13), ![Microsoft Azure ML](https://skillicons.dev/icons?i=azur&perline=13)
+- **Cloud Platforms**: ![AWS (SageMaker)](https://skillicons.dev/icons?i=aws&perline=13),![Google Cloud AI Platform](https://skillicons.dev/icons?i=gcp&perline=13), ![Microsoft Azure ML](https://skillicons.dev/icons?i=azure&perline=13)
 - **MLOps & Deployment**: ![Docker], ![Kubernetes], ![Jenkins], ![GitLab], ![CircleCI], ![Travis CI], ![MLflow], ![Airflow], ![Kubeflow]
 - **Databases**: ![PostgreSQL], ![MySQL], ![MongoDB], ![Redis], ![Cassandra]
 - **Data Warehousing**: ![Amazon Redshift], ![Google BigQuery], ![Snowflake]
