@@ -51,30 +51,23 @@ Hi there! I’m **Karim Osman**, a passionate **Machine Learning Engineer**, **D
 #### **Machine Learning & Data Science Frameworks**
 - **Machine Learning**:
   
-   ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-   ![XGBoost](https://img.shields.io/badge/XGBoost-FF7F0E?style=flat&logo=xgboost&logoColor=white)  
-   ![LightGBM](https://img.shields.io/badge/LightGBM-72BD2F?style=flat&logo=lightgbm&logoColor=white)  
-   ![CatBoost](https://img.shields.io/badge/CatBoost-00C0B5?style=flat&logo=catboost&logoColor=white)
+   ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)![XGBoost](https://img.shields.io/badge/XGBoost-FF7F0E?style=flat&logo=xgboost&logoColor=white)  
+   ![LightGBM](https://img.shields.io/badge/LightGBM-72BD2F?style=flat&logo=lightgbm&logoColor=white)![CatBoost](https://img.shields.io/badge/CatBoost-00C0B5?style=flat&logo=catboost&logoColor=white)
   #### **Deep Learning**
 - **Deep Learning Frameworks**:
    
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
-  ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)  
-  ![MXNet](https://img.shields.io/badge/Apache%20MXNet-009C4D?style=flat&logo=apache-mxnet&logoColor=white)  
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
+  ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)![MXNet](https://img.shields.io/badge/Apache%20MXNet-009C4D?style=flat&logo=apache-mxnet&logoColor=white)  
   ![Caffe](https://img.shields.io/badge/Caffe-FF4C00?style=flat&logo=caffe&logoColor=white)
 - **Data Science**:
   
-    ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-    ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-    ![SciPy](https://img.shields.io/badge/SciPy-8E7CC3?style=flat&logo=scipy&logoColor=white)  
-    ![Statsmodels](https://img.shields.io/badge/Statsmodels-3477A7?style=flat&logo=statsmodels&logoColor=white)
+    ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+    ![SciPy](https://img.shields.io/badge/SciPy-8E7CC3?style=flat&logo=scipy&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-3477A7?style=flat&logo=statsmodels&logoColor=white)
+  
 - **Data Visualization**:
   
-    ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
-    ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)  
-    ![Seaborn](https://img.shields.io/badge/Seaborn-009EAA?style=flat&logo=seaborn&logoColor=white)  
-    ![Plotly](https://img.shields.io/badge/Plotly-3A4F97?style=flat&logo=plotly&logoColor=white)  
+    ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)  
+    ![Seaborn](https://img.shields.io/badge/Seaborn-009EAA?style=flat&logo=seaborn&logoColor=white)![Plotly](https://img.shields.io/badge/Plotly-3A4F97?style=flat&logo=plotly&logoColor=white)  
     ![Bokeh](https://img.shields.io/badge/Bokeh-9A2C2C?style=flat&logo=bokeh&logoColor=white)
 
 #### **Deep Learning Models**
@@ -85,41 +78,30 @@ Hi there! I’m **Karim Osman**, a passionate **Machine Learning Engineer**, **D
 #### **Big Data & Cloud Technologies**
 - **Big Data Tools**:
   
-   ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)  
-   ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=hadoop&logoColor=white)  
-   ![Dask](https://img.shields.io/badge/Dask-1795BB?style=flat&logo=dask&logoColor=white)  
-   ![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apache-hive&logoColor=black)  
-   ![Flink](https://img.shields.io/badge/Apache%20Flink-00B3A6?style=flat&logo=apache-flink&logoColor=white)  
-   ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+   ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=hadoop&logoColor=white)![Dask](https://img.shields.io/badge/Dask-1795BB?style=flat&logo=dask&logoColor=white)![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apache-hive&logoColor=black)![Flink](https://img.shields.io/badge/Apache%20Flink-00B3A6?style=flat&logo=apache-flink&logoColor=white)![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+
+  
 - **Cloud Platforms**:
   
-   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
-   ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)  
+   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)  
    ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
 - **MLOps & Deployment**:
 
-   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
-   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
-   ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)  
-   ![MLflow](https://img.shields.io/badge/MLflow-5B2C6F?style=flat&logo=mlflow&logoColor=white)  
-   ![Airflow](https://img.shields.io/badge/Airflow-17A4B8?style=flat&logo=apache-airflow&logoColor=white)  
+   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)  
+   ![MLflow](https://img.shields.io/badge/MLflow-5B2C6F?style=flat&logo=mlflow&logoColor=white)![Airflow](https://img.shields.io/badge/Airflow-17A4B8?style=flat&logo=apache-airflow&logoColor=white)  
    ![Kubeflow](https://img.shields.io/badge/Kubeflow-FF8A00?style=flat&logo=kubeflow&logoColor=white)
 
 #### **Databases & Warehousing**
 - **Databases**:
   
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)  
   ![Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white)
 
 - **Data Warehousing**:
   
-  ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-000000?style=flat&logo=amazonredshift&logoColor=white)  
-  ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)  
-  ![Snowflake](https://img.shields.io/badge/Snowflake-004B87?style=flat&logo=snowflake&logoColor=white)
+  ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-000000?style=flat&logo=amazonredshift&logoColor=white)![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)![Snowflake](https://img.shields.io/badge/Snowflake-004B87?style=flat&logo=snowflake&logoColor=white)
 ---
 
 ### 🏆 Notable Projects
