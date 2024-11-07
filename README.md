@@ -57,7 +57,7 @@ Hi there! I’m **Karim Osman**, a passionate **Machine Learning Engineer**, **D
    ![XGBoost](https://img.shields.io/badge/XGBoost-FF7F0E?style=flat&logo=xgboost&logoColor=white)  
    ![LightGBM](https://img.shields.io/badge/LightGBM-72BD2F?style=flat&logo=lightgbm&logoColor=white)  
    ![CatBoost](https://img.shields.io/badge/CatBoost-00C0B5?style=flat&logo=catboost&logoColor=white)
--#### **Deep Learning**
+  #### **Deep Learning**
 - **Deep Learning Frameworks**:
    
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
