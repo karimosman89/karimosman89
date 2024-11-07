@@ -25,6 +25,9 @@
   <a href="https://pypi.org/user/karimosman89/">
     <img src="https://img.shields.io/badge/PyPi-karimosman-blue?style=for-the-badge&logo=pypi&logoColor=white">
   </a>
+  <a href="https://github.com/karimosman89">
+    <img src="https://github-stats-alpha.vercel.app/api?username=karimosman89&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats">
+  </a>
 </p>
 
 ---
