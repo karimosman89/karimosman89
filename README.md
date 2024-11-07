@@ -8,32 +8,24 @@
   </a>
   <br/>
   <a href="https://kosman.streamlit.app">
-    <img src="https://img.shields.io/badge/Website-kosman.streamlit.app-red?style=flat-square">
-</a>  
-<a href="https://drive.google.com/file/d/18SLECTaOP9vgHKqGrgRdVotPRWu_V7nZ/preview">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-</a>  
-<a href="https://www.linkedin.com/in/karimosman89/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
-<a href="mailto:karim.programmer2020@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
-<a href='https://scholar.google.com/citations?user=pwlwbecAAAAJ&hl=en&authuser=1&oi=sra' target="_blank">
-    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
-</a>
-<a href="https://pypi.org/user/karimosman89/">
-    <img src="https://img.shields.io/badge/PyPi-karimosman-blue?style=flat-square&logo=pypi&logoColor=white">
-</a>
-  <br/>
-  <a href="https://github.com/karimosman89">
-    <img src="https://github-stats-alpha.vercel.app/api?username=karimosman89&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats">
+    <img src="https://img.shields.io/badge/Website-kosman.streamlit.app-red?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  <a href="https://drive.google.com/file/d/18SLECTaOP9vgHKqGrgRdVotPRWu_V7nZ/preview">
+    <img src="https://img.shields.io/badge/CV-PDF-red?style=for-the-badge&logo=adobe">
+  </a>
+  <a href="https://www.linkedin.com/in/karimosman89/">
+    <img src="https://img.shields.io/badge/LinkedIn-Karim%20Osman-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:karim.programmer2020@gmail.com">
+    <img src="https://img.shields.io/badge/Email-karim.programmer2020@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://scholar.google.com/citations?user=pwlwbecAAAAJ&hl=en&authuser=1&oi=sra" target="_blank">
+    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-0181FF?style=for-the-badge&logo=googlescholar&logoColor=white">
+  </a>
+  <a href="https://pypi.org/user/karimosman89/">
+    <img src="https://img.shields.io/badge/PyPi-karimosman-blue?style=for-the-badge&logo=pypi&logoColor=white">
   </a>
 </p>
-
-
-
-
 
 ---
 
@@ -43,30 +35,20 @@ As a **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast**, I 
 
 * 🔍 **Currently focused on**: Developing state-of-the-art **deep learning models** for **Natural Language Processing** and **Computer Vision** applications.
 * 📖 **Engaging with**: Advanced topics such as **Reinforcement Learning** and the latest advancements in **AI technologies**.
-* 🤝 **Open to**: Partnerships on projects that intersect **Machine Learning**, **AI**, and **Data Engineering**.
+* 🤝 **Open to**: Collaborations on projects that intersect **Machine Learning**, **AI**, and **Data Engineering**.
 
 ---
 
 ### 🛠️ Core Skills and Technologies
 
 #### **Programming Languages**
-![Python](https://skillicons.dev/icons?i=python&perline=13)
-![R](https://skillicons.dev/icons?i=r&perline=13) 
-![Java](https://skillicons.dev/icons?i=java&perline=13) 
-![C++](https://skillicons.dev/icons?i=cpp&perline=13)
-![C#](https://skillicons.dev/icons?i=cs&perline=13) 
-![Groovy](https://skillicons.dev/icons?i=gradle&perline=13)
-![SQL](https://skillicons.dev/icons?i=mysql&perline=13) 
-![JavaScript](https://skillicons.dev/icons?i=js&perline=13) 
-![PHP](https://skillicons.dev/icons?i=php&perline=13) 
-![Bash](https://skillicons.dev/icons?i=bash&perline=13) 
-![Go](https://skillicons.dev/icons?i=go&perline=13) 
+![Python](https://skillicons.dev/icons?i=python) ![R](https://skillicons.dev/icons?i=r) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![C#](https://skillicons.dev/icons?i=cs) ![Groovy](https://skillicons.dev/icons?i=gradle) ![SQL](https://skillicons.dev/icons?i=mysql) ![JavaScript](https://skillicons.dev/icons?i=js) ![PHP](https://skillicons.dev/icons?i=php) ![Bash](https://skillicons.dev/icons?i=bash) ![Go](https://skillicons.dev/icons?i=go)
 
 #### **Machine Learning & Data Science Frameworks**
-- **Machine Learning**: ![Scikit-learn](https://skillicons.dev/icons?i=sklearn&perline=13), XGBoost, LightGBM,CatBoost
-- **Deep Learning**: ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&perline=13),Keras, ![PyTorch](https://skillicons.dev/icons?i=pytorch&perline=13),MXNet, ![Caffe](https://skillicons.dev/icons?i=coffeescript&perline=13)
+- **Machine Learning**: ![Scikit-learn](https://skillicons.dev/icons?i=sklearn), XGBoost, LightGBM, CatBoost
+- **Deep Learning**: ![TensorFlow](https://skillicons.dev/icons?i=tensorflow), Keras, ![PyTorch](https://skillicons.dev/icons?i=pytorch), MXNet, Caffe
 - **Data Science**: Pandas, NumPy, SciPy, Statsmodels
-- **Data Visualization**: Tableau, Matplotlib, Seaborn, Plotly,Bokeh
+- **Data Visualization**: Tableau, Matplotlib, Seaborn, Plotly, Bokeh
 
 #### **Deep Learning Models**
 - **NLP**: BERT, GPT-3, LSTM, RNN, CNN
@@ -74,10 +56,10 @@ As a **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast**, I 
 - **Generative Models**: GANs, VAEs
 
 #### **Big Data & Cloud Technologies**
-- **Big Data Tools**: Hadoop, Apache Spark, Dask, Hive, Flink, ![Apache Kafka](https://skillicons.dev/icons?i=kafka&perline=13)
-- **Cloud Platforms**: ![AWS (SageMaker)](https://skillicons.dev/icons?i=aws&perline=13),![Google Cloud AI Platform](https://skillicons.dev/icons?i=gcp&perline=13), ![Microsoft Azure ML](https://skillicons.dev/icons?i=azure&perline=13)
-- **MLOps & Deployment**: ![Docker](https://skillicons.dev/icons?i=docker&perline=13), ![Kubernetes](https://skillicons.dev/icons?i=kubernetes&perline=13), ![Jenkins](https://skillicons.dev/icons?i=jenkins&perline=13), ![GitLab](https://skillicons.dev/icons?i=gitlab&perline=13), CircleCI, Travis CI, MLflow, Airflow, Kubeflow
-- **Databases**: ![PostgreSQL](https://skillicons.dev/icons?i=postgres&perline=13), ![MySQL](https://skillicons.dev/icons?i=mysql&perline=13), ![MongoDB](https://skillicons.dev/icons?i=mongodb&perline=13), ![Redis](https://skillicons.dev/icons?i=redis&perline=13), ![Cassandra](https://skillicons.dev/icons?i=cassandra&perline=13)
+- **Big Data Tools**: Hadoop, Apache Spark, Dask, Hive, Flink, ![Apache Kafka](https://skillicons.dev/icons?i=kafka)
+- **Cloud Platforms**: ![AWS](https://skillicons.dev/icons?i=aws), ![GCP](https://skillicons.dev/icons?i=gcp), ![Azure](https://skillicons.dev/icons?i=azure)
+- **MLOps & Deployment**: ![Docker](https://skillicons.dev/icons?i=docker), ![Kubernetes](https://skillicons.dev/icons?i=kubernetes), ![Jenkins](https://skillicons.dev/icons?i=jenkins), GitLab, MLflow, Airflow, Kubeflow
+- **Databases**: ![PostgreSQL](https://skillicons.dev/icons?i=postgres), ![MySQL](https://skillicons.dev/icons?i=mysql), ![MongoDB](https://skillicons.dev/icons?i=mongodb), ![Redis](https://skillicons.dev/icons?i=redis), Cassandra
 - **Data Warehousing**: Amazon Redshift, Google BigQuery, Snowflake
 - **ETL Tools**: Apache Airflow, Talend, Apache NiFi
 
@@ -88,39 +70,30 @@ As a **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast**, I 
 | Title | Description |
 |-------|-------------|
 | [NLP with Transformers](https://github.com/karimosman89/NLP-with-Transformers) | Developed advanced text classification models utilizing BERT for sentiment analysis and topic classification. |
-| [Time Series Forecasting](https://github.com/karimosman89/time-series) | Designed robust forecasting models employing LSTM, ARIMA, and Prophet to predict stock prices. |
-| [End-to-End ML Pipeline on AWS](https://github.com/karimosman89/ML-Pipeline-AWS) | Engineered a scalable ML pipeline for customer churn prediction utilizing AWS services and CI/CD methodologies. |
-| [Real-Time Data Pipeline](https://github.com/karimosman89/Data-Pipeline) | Architected a high-performance ETL pipeline for processing streaming log data using Apache Kafka and Spark. |
-
----
+| [Time Series Forecasting](https://github.com/karimosman89/time-series) | Designed forecasting models employing LSTM, ARIMA, and Prophet to predict stock prices. |
+| [End-to-End ML Pipeline on AWS](https://github.com/karimosman89/ML-Pipeline-AWS) | Engineered a scalable ML pipeline for customer churn prediction using AWS services and CI/CD methodologies. |
+| [Real-Time Data Pipeline](https://github.com/karimosman89/Data-Pipeline) | Built an ETL pipeline for streaming log data with Apache Kafka and Spark. |
 
 <details>
 <summary>📈 My GitHub Stats</summary>
 <br>
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karimosman89&theme=dracula) 
+  ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karimosman89&theme=dracula) 
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karimosman89&theme=dracula) 
+  ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karimosman89&theme=dracula) 
   
-  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=karimosman89&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
-  [![Karim's current streak](https://streak-stats.demolab.com/?user=karimosman89&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-<br>
+  ![Current Streak](https://streak-stats.demolab.com/?user=karimosman89&count_private=true&theme=blue-green)
+  
 </details>
 
 ### 🌍 Let's Connect
 
-I am eager to engage in meaningful conversations about innovative projects, ideas, and opportunities. Feel free to connect with me through the following platforms:
+I am excited to connect on innovative projects, ideas, and opportunities. Feel free to reach out through:
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Karim--Osman-blue)](https://linkedin.com/in/karimosman89)  
-[![Email Badge](https://img.shields.io/badge/Email-karim.programmer2020@gmail.com-red)](mailto:karim.programmer2020@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Karim--Osman-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karimosman89)  
+[![Email Badge](https://img.shields.io/badge/Email-karim.programmer2020@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karim.programmer2020@gmail.com)
 
 ---
 
 ### 🌟 Fun Fact
-I love exploring the intersection of technology and art. When I'm not coding, you might find me experimenting with creative projects or participating in hackathons! 🚀
-
----
-
-<!-- Animations for unique touch -->
-![Profile Animation](https://raw.githubusercontent.com/yourusername/yourrepository/main/animation.gif) <!-- Make sure to replace the URL with an actual GIF link -->
+I enjoy exploring the intersection of technology and art. When I'm not coding, you might find me experimenting with creative projects or joining hackathons! 🚀
