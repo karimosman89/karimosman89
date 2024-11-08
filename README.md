@@ -8,22 +8,22 @@
   </a>
   <br/>
   <a href="https://kosman.streamlit.app">
-     <img src="https://img.shields.io/badge/Website-Karim%20Osman's%20Portfolio-4CAF50?style=flat&logo=google-chrome&logoColor=white" alt="Website - Portfolio">
+     <img src="https://img.shields.io/badge/Website-Karim%20Osman's%20Portfolio-4CAF50?style=flat&logo=google-chrome&logoColor=white" alt="Website-Portfolio">
 </a>
 <a href="https://drive.google.com/file/d/18SLECTaOP9vgHKqGrgRdVotPRWu_V7nZ/preview">
-    <img src="https://img.shields.io/badge/CV-Download-FF0000?style=flat&logo=adobe-acrobat-reader&logoColor=white" alt="CV - PDF Download">
+    <img src="https://img.shields.io/badge/CV-Download-FF0000?style=flat&logo=adobe-acrobat-reader&logoColor=white" alt="CV-PDF Download">
 </a>
 <a href="https://www.linkedin.com/in/karimosman89/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn - Connect">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn -Connect">
 </a>
 <a href="mailto:karim.programmer2020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-FF5722?style=flat&logo=gmail&logoColor=white" alt="Email - Contact">
+    <img src="https://img.shields.io/badge/Email-Contact-FF5722?style=flat&logo=gmail&logoColor=white" alt="Email -Contact">
 </a>
 <a href="https://scholar.google.com/citations?user=pwlwbecAAAAJ&hl=en&authuser=1&oi=sra" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Research-0181FF?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar - Research">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Research-0181FF?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar -Research">
 </a>
  <a href="https://pypi.org/user/karimosman89/">
-   <img src="https://img.shields.io/badge/PyPi-Packages-4B8BBE?style=flat&logo=pypi&logoColor=white" alt="PyPi - Packages">
+   <img src="https://img.shields.io/badge/PyPi-Packages-4B8BBE?style=flat&logo=pypi&logoColor=white" alt="PyPi -Packages">
 </a>
 <br/>
 <a href="https://github.com/karimosman89">
