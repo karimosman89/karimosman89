@@ -1,14 +1,15 @@
 <p align="center">
   <a href="https://github.com/karimosman89">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=2000&pause=100&color=F1C40F&lines=Karim+Osman" alt="Typing SVG - Karim Osman" />
+     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=2000&pause=100&color=F1C40F&lines=Karim+Osman" alt="Typing SVG - Karim Osman" />
   </a>
   <br/>
   <a href="https://github.com/karimosman89">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&colors=2ECC71,3498DB,E74C3C,9B59B6,F1C40F,28B463&lines=Machine+Learning+Engineer+|+Data+Engineer+|+AI+Engineer;Data+Scientist+|+DevOps" alt="Typing SVG - Positions" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Machine+Learning+Engineer&color=2ECC71;Data+Engineer&color=3498DB;AI+Engineer&color=E74C3C;Data+Scientist&color=9B59B6;DevOps&color=F1C40F" alt="Typing SVG - Positions" />
   </a>
+
   <br/>
   <a href="https://kosman.streamlit.app">
-    <img src="https://img.shields.io/badge/Website-Karim%20Osman's%20Portfolio-4CAF50?style=flat&logo=google-chrome&logoColor=white" alt="Website - Portfolio">
+     <img src="https://img.shields.io/badge/Website-Karim%20Osman's%20Portfolio-4CAF50?style=flat&logo=google-chrome&logoColor=white" alt="Website - Portfolio">
 </a>
 <a href="https://drive.google.com/file/d/18SLECTaOP9vgHKqGrgRdVotPRWu_V7nZ/preview">
     <img src="https://img.shields.io/badge/CV-Download-FF0000?style=flat&logo=adobe-acrobat-reader&logoColor=white" alt="CV - PDF Download">
@@ -26,8 +27,8 @@
     <img src="https://img.shields.io/badge/PyPi-Packages-4B8BBE?style=flat&logo=pypi&logoColor=white" alt="PyPi - Packages">
 </a>
   <a href="https://github.com/karimosman89">
-    <img src="https://github-stats-alpha.vercel.app/api?username=karimosman89&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats">
-  </a>
+      <img src="https://github-stats-alpha.vercel.app/api?username=karimosman89&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats">
+</a>
 </p>
 
 ---
