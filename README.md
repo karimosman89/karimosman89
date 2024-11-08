@@ -8,23 +8,23 @@
   </a>
   <br/>
   <a href="https://kosman.streamlit.app">
-    <img src="https://img.shields.io/badge/Website-kosman.streamlit.app-red?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-  <a href="https://drive.google.com/file/d/18SLECTaOP9vgHKqGrgRdVotPRWu_V7nZ/preview">
-    <img src="https://img.shields.io/badge/CV-PDF-red?style=for-the-badge&logo=adobe">
-  </a>
-  <a href="https://www.linkedin.com/in/karimosman89/">
-    <img src="https://img.shields.io/badge/LinkedIn-Karim%20Osman-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:karim.programmer2020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-karim.programmer2020@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://scholar.google.com/citations?user=pwlwbecAAAAJ&hl=en&authuser=1&oi=sra" target="_blank">
-    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-0181FF?style=for-the-badge&logo=googlescholar&logoColor=white">
-  </a>
-  <a href="https://pypi.org/user/karimosman89/">
-    <img src="https://img.shields.io/badge/PyPi-karimosman-blue?style=for-the-badge&logo=pypi&logoColor=white">
-  </a>
+    <img src="https://img.shields.io/badge/Website-Karim%20Osman's%20Portfolio-4CAF50?style=flat&logo=google-chrome&logoColor=white" alt="Website - Portfolio">
+</a>
+<a href="https://drive.google.com/file/d/18SLECTaOP9vgHKqGrgRdVotPRWu_V7nZ/preview">
+    <img src="https://img.shields.io/badge/CV-Download-FF0000?style=flat&logo=adobe-acrobat-reader&logoColor=white" alt="CV - PDF Download">
+</a>
+<a href="https://www.linkedin.com/in/karimosman89/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn - Connect">
+</a>
+<a href="mailto:karim.programmer2020@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-FF5722?style=flat&logo=gmail&logoColor=white" alt="Email - Contact">
+</a>
+<a href="https://scholar.google.com/citations?user=pwlwbecAAAAJ&hl=en&authuser=1&oi=sra" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Research-0181FF?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar - Research">
+</a>
+<a href="https://pypi.org/user/karimosman89/">
+    <img src="https://img.shields.io/badge/PyPi-Packages-4B8BBE?style=flat&logo=pypi&logoColor=white" alt="PyPi - Packages">
+</a>
   <a href="https://github.com/karimosman89">
     <img src="https://github-stats-alpha.vercel.app/api?username=karimosman89&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats">
   </a>
