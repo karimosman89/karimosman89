@@ -6,7 +6,6 @@
   <a href="https://github.com/karimosman89">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&colors=2ECC71,3498DB,E74C3C,9B59B6,F1C40F,28B463&lines=Machine+Learning+Engineer+|+Data+Engineer+|+AI+Engineer;Data+Scientist+|+DevOps" alt="Typing SVG - Positions" />
   </a>
-
   <br/>
   <a href="https://kosman.streamlit.app">
      <img src="https://img.shields.io/badge/Website-Karim%20Osman's%20Portfolio-4CAF50?style=flat&logo=google-chrome&logoColor=white" alt="Website - Portfolio">
@@ -23,8 +22,8 @@
 <a href="https://scholar.google.com/citations?user=pwlwbecAAAAJ&hl=en&authuser=1&oi=sra" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-Research-0181FF?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar - Research">
 </a>
-<a href="https://pypi.org/user/karimosman89/">
-    <img src="https://img.shields.io/badge/PyPi-Packages-4B8BBE?style=flat&logo=pypi&logoColor=white" alt="PyPi - Packages">
+ <a href="https://pypi.org/user/karimosman89/">
+   <img src="https://img.shields.io/badge/PyPi-Packages-4B8BBE?style=flat&logo=pypi&logoColor=white" alt="PyPi - Packages">
 </a>
 
 
