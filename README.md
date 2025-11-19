@@ -74,7 +74,7 @@ Hi there! I’m **Karim Osman**, a passionate **Machine Learning Engineer**, **D
 <img src="https://img.shields.io/badge/CatBoost-Proficient-00C0B5?style=for-the-badge" />
 </p>
 
-### **🔥 LLM & Generative AI** ⭐ NEW!
+### **🔥 LLM & Generative AI** 
 <p>
 <img src="https://img.shields.io/badge/OpenAI_API-GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-Advanced-2C8EBB?style=for-the-badge" />
@@ -85,7 +85,7 @@ Hi there! I’m **Karim Osman**, a passionate **Machine Learning Engineer**, **D
 <img src="https://img.shields.io/badge/Anthropic_Claude-Advanced-181818?style=for-the-badge" />
 </p>
 
-### **🗄️ Vector Databases & Embeddings** ⭐ NEW!
+### **🗄️ Vector Databases & Embeddings** 
 <p>
 <img src="https://img.shields.io/badge/Pinecone-Production-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Weaviate-Advanced-00C853?style=for-the-badge" />
@@ -136,7 +136,7 @@ Hi there! I’m **Karim Osman**, a passionate **Machine Learning Engineer**, **D
 <img src="https://img.shields.io/badge/Kubeflow-ML_Pipelines-FF8A00?style=for-the-badge" />
 </p>
 
-### **🔬 ML Experiment Tracking & Optimization** ⭐ NEW!
+### **🔬 ML Experiment Tracking & Optimization** 
 <p>
 <img src="https://img.shields.io/badge/Weights_&_Biases-Production-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
 <img src="https://img.shields.io/badge/DVC-Data_Version-13ADC7?style=for-the-badge" />
@@ -145,7 +145,7 @@ Hi there! I’m **Karim Osman**, a passionate **Machine Learning Engineer**, **D
 <img src="https://img.shields.io/badge/Neptune.ai-Experiments-0077C8?style=for-the-badge" />
 </p>
 
-### **🔧 Version Control & Collaboration** ⭐ NEW!
+### **🔧 Version Control & Collaboration** 
 <p>
 <img src="https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-Advanced-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -176,7 +176,7 @@ Hi there! I’m **Karim Osman**, a passionate **Machine Learning Engineer**, **D
 <img src="https://img.shields.io/badge/D3.js-Intermediate-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
 </p>
 
-### **📊 Monitoring & Observability** ⭐ NEW!
+### **📊 Monitoring & Observability** 
 <p>
 <img src="https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/Grafana-Dashboards-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
@@ -185,7 +185,7 @@ Hi there! I’m **Karim Osman**, a passionate **Machine Learning Engineer**, **D
 <img src="https://img.shields.io/badge/New_Relic-Performance-008C99?style=for-the-badge&logo=newrelic&logoColor=white" />
 </p>
 
-### **🌐 API & Communication** ⭐ NEW!
+### **🌐 API & Communication** 
 <p>
 <img src="https://img.shields.io/badge/REST_API-Expert-009688?style=for-the-badge" />
 <img src="https://img.shields.io/badge/GraphQL-Advanced-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
@@ -195,7 +195,7 @@ Hi there! I’m **Karim Osman**, a passionate **Machine Learning Engineer**, **D
 <img src="https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-### **🧪 Testing & Quality Assurance** ⭐ NEW!
+### **🧪 Testing & Quality Assurance** 
 <p>
 <img src="https://img.shields.io/badge/pytest-Testing-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
 <img src="https://img.shields.io/badge/unittest-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -217,7 +217,7 @@ Hi there! I’m **Karim Osman**, a passionate **Machine Learning Engineer**, **D
 <img src="https://img.shields.io/badge/Streamlit-ML_Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-### **💼 Professional Skills & Methodologies** ⭐ NEW!
+### **💼 Professional Skills & Methodologies** 
 <p>
 <img src="https://img.shields.io/badge/Agile-Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/Project_Management-Advanced-FF5722?style=for-the-badge" />
