@@ -1,48 +1,68 @@
 <p align="center">
   <a href="https://github.com/karimosman89">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=2000&pause=100&color=F1C40F&lines=Karim+Osman" alt="Typing SVG - Karim Osman" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=36&duration=2000&pause=100&color=F1C40F&center=true&vCenter=true&width=600&lines=Karim+Osman;Transforming+Data+into+Intelligence" alt="Typing SVG - Karim Osman" />
   </a>
   <br/>
   <a href="https://github.com/karimosman89">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&colors=2ECC71,3498DB,E74C3C,9B59B6,F1C40F,28B463&lines=Machine+Learning+Engineer+|+Data+Engineer+|+AI+Engineer;Data+Scientist+|+DevOps" alt="Typing SVG - Positions" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&multiline=true&width=700&height=100&center=true&vCenter=true&colors=2ECC71,3498DB,E74C3C,9B59B6,F1C40F,28B463&lines=ML+Engineer+%7C+AI+Architect+%7C+Data+Engineer;Building+Scalable+AI+Solutions;Open+to+Collaborations+%26+Opportunities" alt="Typing SVG - Positions" />
   </a>
-  <br/>
-  <a href="https://kosman.streamlit.app">
-     <img src="https://img.shields.io/badge/Website-Karim%20Osman's%20Portfolio-4CAF50?style=flat&logo=google-chrome&logoColor=white" alt="Website-Portfolio">
-</a>
-<a href="https://drive.google.com/file/d/18SLECTaOP9vgHKqGrgRdVotPRWu_V7nZ/preview">
-    <img src="https://img.shields.io/badge/CV-Download-FF0000?style=flat&logo=adobe-acrobat-reader&logoColor=white" alt="CV-PDF Download">
-</a>
-<a href="https://www.linkedin.com/in/karimosman89/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn -Connect">
-</a>
-<a href="mailto:karim.programmer2020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-FF5722?style=flat&logo=gmail&logoColor=white" alt="Email -Contact">
-</a>
-<a href="https://scholar.google.com/citations?user=pwlwbecAAAAJ&hl=en&authuser=1&oi=sra" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Research-0181FF?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar -Research">
-</a>
- <a href="https://pypi.org/user/karimosman89/">
-   <img src="https://img.shields.io/badge/PyPi-Packages-4B8BBE?style=flat&logo=pypi&logoColor=white" alt="PyPi -Packages">
-</a>
-<br/>
-<a href="https://github.com/karimosman89">
-    <img src="https://github-stats-alpha.vercel.app/api?username=karimosman89&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats">
-</a>
-
 </p>
 
+<p align="center">
+  <a href="https://kosman.streamlit.app">
+     <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Demo-4CAF50?style=for-the-badge&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://drive.google.com/file/d/18SLECTaOP9vgHKqGrgRdVotPRWu_V7nZ/preview">
+      <img src="https://img.shields.io/badge/📄_Resume-Download_PDF-FF0000?style=for-the-badge&logoColor=white" alt="Resume">
+  </a>
+  <a href="https://www.linkedin.com/in/karimosman89/">
+      <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:karim.programmer2020@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://scholar.google.com/citations?user=pwlwbecAAAAJ&hl=en&authuser=1&oi=sra">
+      <img src="https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
+  </a>
+  <a href="https://pypi.org/user/karimosman89/">
+     <img src="https://img.shields.io/badge/PyPI-My_Packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karimosman89&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/karimosman89?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+</p>
 ---
 
-### 👨‍💻 About Me
+## 💼 Professional Summary
 
-Hi there! I’m **Karim Osman**, a passionate **Machine Learning Engineer**, **Data Engineer**, and **AI Enthusiast** with experience in building intelligent systems and processing large-scale data. 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🔍 **Currently focused on**: Developing **Deep Learning** models for **Natural Language Processing (NLP)** and **Computer Vision (CV)**.
-- 📖 **Exploring**: **Reinforcement Learning** and advanced **AI technologies**.
-- 🤝 **Open to collaborations**: Especially in **Machine Learning**, **AI**, and **Data Engineering**.
+### 🎯 **Impact-Driven AI & ML Engineer**
 
----
+Results-oriented engineer specializing in:
+- 🚀 **Scalable ML Systems** that process millions of data points
+- 💡 **End-to-End AI Solutions** from research to production
+- 📊 **Data-Driven Decision Making** with measurable ROI
+- ⚡ **Real-Time Processing** with distributed systems
+- 🔧 **MLOps & Automation** for enterprise deployment
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 **By the Numbers**
+
+```text
+💻 10+ Production ML Models Deployed
+📦 5+ Open Source Packages Published
+🎓 Multiple Research Publications
+⭐ Growing GitHub Community
+🌍 International Project Experience
+🏆 Proven Track Record in AI/ML
+
 
 ## 🛠️ Technology Stack & Expertise
 
