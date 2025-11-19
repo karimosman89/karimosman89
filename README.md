@@ -63,7 +63,7 @@ Results-oriented engineer specializing in:
 🌍 International Project Experience
 🏆 Proven Track Record in AI/ML
 
-
+---
 ## 🛠️ Technology Stack & Expertise
 
 <details open>
