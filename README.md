@@ -44,70 +44,193 @@ Hi there! I’m **Karim Osman**, a passionate **Machine Learning Engineer**, **D
 
 ---
 
-### 🛠️ Core Skills & Technologies
+## 🛠️ Technology Stack & Expertise
 
-#### **Programming Languages & Frameworks**
-- **Languages**:
+<details open>
+<summary><b>🎯 Click to expand full tech stack</b></summary>
+<br>
 
-  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" /><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" /><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" /><img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" /><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />  <img src="https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=gradle&logoColor=white" alt="Groovy" /><img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="JavaScript" /><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" /><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" /><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" /><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" /><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" /><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" /><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" /><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /><img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" />
+### **💻 Programming Languages**
+<p>
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/R-Advanced-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-Expert-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-Proficient-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-Intermediate-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-Proficient-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C%23-Intermediate-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-Proficient-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
+### **🤖 AI/ML Frameworks & Deep Learning**
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-Production-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-Advanced-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-Expert-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-Advanced-FF7F0E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LightGBM-Advanced-72BD2F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CatBoost-Proficient-00C0B5?style=for-the-badge" />
+</p>
 
-#### **Machine Learning & Data Science Frameworks**
-- **Machine Learning**:
-  
-   ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)![XGBoost](https://img.shields.io/badge/XGBoost-FF7F0E?style=flat&logo=xgboost&logoColor=white)  
-   ![LightGBM](https://img.shields.io/badge/LightGBM-72BD2F?style=flat&logo=lightgbm&logoColor=white)![CatBoost](https://img.shields.io/badge/CatBoost-00C0B5?style=flat&logo=catboost&logoColor=white)
-  #### **Deep Learning**
-- **Deep Learning Frameworks**:
-   
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
-  ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)![MXNet](https://img.shields.io/badge/Apache%20MXNet-009C4D?style=flat&logo=apache-mxnet&logoColor=white)  
-  ![Caffe](https://img.shields.io/badge/Caffe-FF4C00?style=flat&logo=caffe&logoColor=white)
-- **Data Science**:
-  
-    ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-    ![SciPy](https://img.shields.io/badge/SciPy-8E7CC3?style=flat&logo=scipy&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-3477A7?style=flat&logo=statsmodels&logoColor=white)
-  
-- **Data Visualization**:
-  
-    ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)  
-    ![Seaborn](https://img.shields.io/badge/Seaborn-009EAA?style=flat&logo=seaborn&logoColor=white)![Plotly](https://img.shields.io/badge/Plotly-3A4F97?style=flat&logo=plotly&logoColor=white)  
-    ![Bokeh](https://img.shields.io/badge/Bokeh-9A2C2C?style=flat&logo=bokeh&logoColor=white)
+### **🔥 LLM & Generative AI** ⭐ NEW!
+<p>
+<img src="https://img.shields.io/badge/OpenAI_API-GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-Advanced-2C8EBB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LlamaIndex-RAG_Systems-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-Expert-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Fine--tuning-LLMs-9B59B6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Anthropic_Claude-Advanced-181818?style=for-the-badge" />
+</p>
 
-#### **Deep Learning Models**
-- **NLP Models**: BERT, GPT-3, LSTM, RNN, CNN
-- **Computer Vision**: U-Net, ResNet, VGG16, EfficientNet, YOLO
-- **Generative Models**: GANs, VAEs
+### **🗄️ Vector Databases & Embeddings** ⭐ NEW!
+<p>
+<img src="https://img.shields.io/badge/Pinecone-Production-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Weaviate-Advanced-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ChromaDB-Proficient-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FAISS-Facebook_AI-0084FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Qdrant-Vector_Search-DC382D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Milvus-Scalable-00A6FB?style=for-the-badge" />
+</p>
 
-#### **Big Data & Cloud Technologies**
-- **Big Data Tools**:
-  
-   ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=hadoop&logoColor=white)![Dask](https://img.shields.io/badge/Dask-1795BB?style=flat&logo=dask&logoColor=white)![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apache-hive&logoColor=black)![Flink](https://img.shields.io/badge/Apache%20Flink-00B3A6?style=flat&logo=apache-flink&logoColor=white)![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+### **🎯 Specialized AI Domains**
+<p>
+<img src="https://img.shields.io/badge/Computer_Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLO-Object_Detection-00FFFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OCR-Tesseract-4285F4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-spaCy-09A3D5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Speech-Whisper_AI-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Reinforcement_Learning-Advanced-FF6B6B?style=for-the-badge" />
+</p>
 
-  
-- **Cloud Platforms**:
-  
-   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)  
-   ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
-- **MLOps & Deployment**:
+### **📊 Data Engineering & Big Data**
+<p>
+<img src="https://img.shields.io/badge/Apache_Spark-Expert-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-Advanced-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Hadoop-Proficient-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" />
+<img src="https://img.shields.io/badge/Airflow-Production-17A4B8?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Flink-Intermediate-00B3A6?style=for-the-badge&logo=apache-flink&logoColor=white" />
+<img src="https://img.shields.io/badge/dbt-Analytics-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+<img src="https://img.shields.io/badge/Great_Expectations-Data_Quality-FF5733?style=for-the-badge" />
+</p>
 
-   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
-   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)  
-   ![MLflow](https://img.shields.io/badge/MLflow-5B2C6F?style=flat&logo=mlflow&logoColor=white)![Airflow](https://img.shields.io/badge/Airflow-17A4B8?style=flat&logo=apache-airflow&logoColor=white)  
-   ![Kubeflow](https://img.shields.io/badge/Kubeflow-FF8A00?style=flat&logo=kubeflow&logoColor=white)
+### **☁️ Cloud & Infrastructure**
+<p>
+<img src="https://img.shields.io/badge/AWS-Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-Advanced-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-Proficient-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudFormation-AWS-FF9900?style=for-the-badge" />
+</p>
 
-#### **Databases & Warehousing**
-- **Databases**:
-  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)  
-  ![Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white)
+### **🔧 MLOps & DevOps**
+<p>
+<img src="https://img.shields.io/badge/Docker-Expert-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-Advanced-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-CI/CD-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab_CI-Advanced-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-Production-5B2C6F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Kubeflow-ML_Pipelines-FF8A00?style=for-the-badge" />
+</p>
 
-- **Data Warehousing**:
-  
-  ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-000000?style=flat&logo=amazonredshift&logoColor=white)![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)![Snowflake](https://img.shields.io/badge/Snowflake-004B87?style=flat&logo=snowflake&logoColor=white)
----
+### **🔬 ML Experiment Tracking & Optimization** ⭐ NEW!
+<p>
+<img src="https://img.shields.io/badge/Weights_&_Biases-Production-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
+<img src="https://img.shields.io/badge/DVC-Data_Version-13ADC7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Optuna-Hyperparameter-2D3748?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ray-Distributed_ML-028CF0?style=for-the-badge&logo=ray&logoColor=white" />
+<img src="https://img.shields.io/badge/Neptune.ai-Experiments-0077C8?style=for-the-badge" />
+</p>
+
+### **🔧 Version Control & Collaboration** ⭐ NEW!
+<p>
+<img src="https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Advanced-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-Advanced-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/Bitbucket-Proficient-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
+</p>
+
+### **🗄️ Databases & Data Warehousing**
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-Expert-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-Production-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Cassandra-Proficient-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-Advanced-004B87?style=for-the-badge&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/BigQuery-Advanced-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Redshift-AWS-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" />
+</p>
+
+### **📈 Data Visualization & BI**
+<p>
+<img src="https://img.shields.io/badge/Tableau-Expert-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-Advanced-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Plotly-Advanced-3A4F97?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-Expert-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Seaborn-Advanced-009EAA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bokeh-Proficient-9A2C2C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/D3.js-Intermediate-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
+</p>
+
+### **📊 Monitoring & Observability** ⭐ NEW!
+<p>
+<img src="https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-Dashboards-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/ELK_Stack-Logging-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+<img src="https://img.shields.io/badge/DataDog-APM-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+<img src="https://img.shields.io/badge/New_Relic-Performance-008C99?style=for-the-badge&logo=newrelic&logoColor=white" />
+</p>
+
+### **🌐 API & Communication** ⭐ NEW!
+<p>
+<img src="https://img.shields.io/badge/REST_API-Expert-009688?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GraphQL-Advanced-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/gRPC-Proficient-244C5A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WebSocket-Real--time-010101?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Swagger/OpenAPI-Documentation-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+<img src="https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+### **🧪 Testing & Quality Assurance** ⭐ NEW!
+<p>
+<img src="https://img.shields.io/badge/pytest-Testing-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/unittest-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-JavaScript-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/TDD-Methodology-25A162?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Integration_Testing-Advanced-4CAF50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Code_Coverage-90%25+-success?style=for-the-badge" />
+</p>
+
+### **🌐 Web Development**
+<p>
+<img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-Proficient-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-Intermediate-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-Production-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-Expert-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-ML_Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+### **💼 Professional Skills & Methodologies** ⭐ NEW!
+<p>
+<img src="https://img.shields.io/badge/Agile-Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Project_Management-Advanced-FF5722?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Technical_Leadership-Team_Lead-4CAF50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Code_Review-Best_Practices-333333?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Technical_Documentation-Expert-00897B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mentoring-Team_Development-9C27B0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Problem_Solving-Analytical-E91E63?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Communication-Cross--Functional-2196F3?style=for-the-badge" />
+</p>
+
+</details>
+
 
 ### 🏆 Notable Projects
 
