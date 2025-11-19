@@ -379,32 +379,52 @@ Results-oriented engineer specializing in:
 
 ## 💡 Core Competencies
 
-```mermaid
-mindmap
-  root((Karim Osman))
-    Machine Learning
-      Supervised Learning
-      Deep Learning
-      NLP & Computer Vision
-      Model Optimization
-    Data Engineering
-      ETL Pipelines
-      Real-time Streaming
-      Data Warehousing
-      Big Data Processing
-    MLOps & DevOps
-      CI/CD Pipelines
-      Container Orchestration
-      Cloud Architecture
-      Monitoring & Logging
-    Leadership
-      Technical Strategy
-      Team Collaboration
-      Project Management
-      Stakeholder Communication
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI & Machine Learning</h3>
+      <ul>
+        <li><b>End-to-End Model Development:</b> From ideation and data collection to model training, evaluation, and deployment.</li>
+        <li><b>Deep Learning Specialization:</b> Expertise in building and optimizing neural networks for complex tasks.</li>
+        <li><b>NLP & Computer Vision:</b> Proven experience in creating solutions for text analysis, image recognition, and object detection.</li>
+        <li><b>Model Optimization & Scaling:</b> Techniques for improving model performance, reducing latency, and ensuring scalability.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Data Engineering & MLOps</h3>
+      <ul>
+        <li><b>Scalable Data Pipelines:</b> Designing and implementing robust ETL and real-time streaming pipelines for large-scale data processing.</li>
+        <li><b>Cloud-Native MLOps:</b> Automating the entire machine learning lifecycle with CI/CD, containerization, and infrastructure as code.</li>
+        <li><b>Big Data Technologies:</b> Proficient in using distributed computing frameworks to handle massive datasets.</li>
+        <li><b>Monitoring & Observability:</b> Implementing comprehensive monitoring and logging to ensure system reliability and performance.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Product & Strategy</h3>
+      <ul>
+        <li><b>Technical Strategy & Vision:</b> Aligning technology with business goals to drive innovation and create a competitive advantage.</li>
+        <li><b>Product-Oriented Development:</b> Focusing on delivering tangible business value and a seamless user experience.</li>
+        <li><b>Agile Project Management:</b> Leading projects with a focus on iterative development, collaboration, and on-time delivery.</li>
+        <li><b>Stakeholder Communication:</b> Effectively communicating complex technical concepts to both technical and non-technical audiences.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 Leadership & Collaboration</h3>
+      <ul>
+        <li><b>Cross-Functional Team Leadership:</b> Guiding and mentoring teams to foster a culture of innovation and excellence.</li>
+        <li><b>Open-Source Contribution:</b> Actively contributing to the open-source community and promoting knowledge sharing.</li>
+        <li><b>Community Building:</b> Engaging with the tech community through speaking, writing, and mentorship.</li>
+        <li><b>Client & Partner Engagement:</b> Building strong relationships with clients and partners to ensure project success.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
+
+
 
 ## 📊 GitHub Analytics
 
