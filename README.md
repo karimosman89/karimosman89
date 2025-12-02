@@ -429,24 +429,17 @@ Results-oriented engineer specializing in:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- GitHub Stats - FIXED URL -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karimosman89&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <!-- Using anuraghazra's service -->
+  <img width="49%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=karimosman89&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
   
-  <!-- GitHub Streak - FIXED URL -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=karimosman89&theme=tokyonight&hide_border=true&currStreakLabel=FFFFFF&fire=FF0000" alt="GitHub Streak" />
+  <!-- Top Languages alternative -->
+  <img width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=karimosman89&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- Top Languages - FIXED URL -->
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimosman89&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss&langs_count=8" alt="Top Languages" />
-  
-  <!-- Contribution Graph -->
-  <img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karimosman89&theme=tokyonight" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karimosman89&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" />
+  <!-- Using another service -->
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karimosman89&theme=github_dark" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karimosman89&theme=github_dark" />
 </p>
 
 ---
