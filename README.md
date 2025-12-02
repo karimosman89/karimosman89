@@ -428,29 +428,23 @@ Results-oriented engineer specializing in:
 
 ## 📊 GitHub Analytics
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=karimosman89&show_icons=true&theme=tokyonight&hide_border=true&disable_animations=true" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=karimosman89&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karimosman89&show_icons=true&theme=tokyonight&hide_border=true&timestamp=1)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=karimosman89&theme=tokyonight&hide_border=true&timestamp=1)](https://git.io/streak-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karimosman89&layout=compact&theme=tokyonight&hide_border=true&timestamp=1)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimosman89&theme=tokyonight&layout=compact&hide_border=true&card_width=500&disable_animations=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karimosman89&theme=tokyonight" alt="Contribution Graph" />
+  <img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karimosman89&theme=tokyonight" alt="Contribution Graph" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=karimosman89&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
-
 ---
 
 ## 🎯 Currently
